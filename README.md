@@ -1,4 +1,4 @@
-Convertion of IM into BLDCM
+Conversion of IM into BLDCM
 Choosing the right Controller
 Calculating the motor's performance
 Calculating the no.of.cells for Battery pack
@@ -8,3 +8,4 @@ Integrating the necessary controllers
 Fixing the things to the Vehicle
 
 hello
+
